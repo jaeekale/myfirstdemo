@@ -1,2 +1,3 @@
 # myfirstdemo
-This is my First Git REPO
+This is my First Git Repository
+Author - Jaee Kale
